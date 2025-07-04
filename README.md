@@ -2,6 +2,8 @@
 
 https://masulhasan.contra.com/
 
+<div class="contra-hire-me-button" data-analyticsUserId="80474ac5-2a3a-405f-b438-a41ac0839d79" data-theme="dark" data-username="masulhasan"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
 <!--
 **masulhasan/masulhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
